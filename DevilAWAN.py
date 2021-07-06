@@ -12,8 +12,8 @@ import cookielib
 import uuid
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
-__author__ = 'HOP'
-__copyright = 'All rights reserved . Copyright  H.O.P'
+__author__ = 'SHAHWAIZ'
+__copyright = 'All rights reserved . Copyright  AWAN'
 os.system('termux-setup-storage')
 
 try:
@@ -34,7 +34,7 @@ header = {
     'x-fb-http-engine': 'Liger' }
 os.system('git pull')
 os.system('clear')
-logo = '\n\n  ██████  ██   ██  ██████ ███    ██ \n  ██  ██  ██   ██  ██  ██ ██ █   ██  \n  ██████  ██   ██  ██████ ██  █  ██ \n  ██  ██  ██   ██  ██  ██ ██   █ ██  \n  ██  ██   █████   ██  ██ ██    ███         \n  Bewafa Girls        \n  DOOR Sy E Achi Lagti        \n\n ------------------------------------------\n   \n   Author   : SHAHWAIZ AWAN\n   Github   : https://github.com/.....\n   Telegram : XXXXXXXX\n   Facebook : MXXXXa\n   Facebook Page : XXXXX\n   This tool is free . Not for sale\n   \n ------------------------------------------ '
+logo = '\n\n  ##     ##     #######     ########  \n  ##     ##    ##     ##    ##     ## \n  ##     ##    ##     ##    ##     ## \n  #########    ##     ##    ########  \n  ##     ##    ##     ##    ##        \n  ##     ##    ##     ##    ##        \n  ##     ##     #######     ##        \n\n ------------------------------------------\n   \n   Author   : SHAHWAIZ AWAN\n   Github   : https://github.com/.....\n   Telegram : XXXXXXXX\n   Facebook : MXXXXa\n   Facebook Page : XXXXX\n   This tool is free . Not for sale\n   \n ------------------------------------------ '
 
 def ip():
     os.system('clear')
